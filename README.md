@@ -24,7 +24,7 @@
 - Buy Books.
 - Get Payment Receipt.
 
-### Technologies used:-gg
+### Technologies used:-
 1. Front-End Development:
 - Html.
 - Css.
